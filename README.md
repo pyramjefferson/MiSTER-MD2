@@ -1,6 +1,4 @@
-div style="background-color: #0b0f19; padding: 25px; border-radius: 12px; border: 1px solid #00ffcc55; font-family: 'Share Tech Mono', monospace;">
-
-  <p align="center">
+ <p align="center">
     <img src="https://files.catbox.moe/jk9nuf.png" width="220" style="border-radius: 50%; border: 2px solid #00FFCC; box-shadow: 0 0 15px rgba(0,255,204,0.5);" alt="RIFT-MD Logo">
   </p>
 
